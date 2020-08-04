@@ -16,7 +16,7 @@ La traducción se hizo de forma meticulosa, sin embargo no fue realizada por un 
 No se ha realizado un proceso de validación y adaptación del instrumento al español
 
 ## ¿Qué archivos existen?
-En este momento están disponibles tres cuestionarios: un cuestionario con preguntas para hombres y mujeres (Ej. "No me siento a gusto conmigo mismo/a), un cuestionario con preguntas para mujeres (Ej. "No me siento a gusto conmigo misma") y un cuestionario para un informante de una mujer (Ej. "No se siente a gusto consigo misma")
+En este momento están disponibles tres cuestionarios: un cuestionario con preguntas para hombres y mujeres (Ej. "No me siento a gusto conmigo mismo/a"), un cuestionario con preguntas para mujeres (Ej. "No me siento a gusto conmigo misma") y un cuestionario para un informante de una mujer (Ej. "No se siente a gusto consigo misma")
 
 ## Contacto o ayuda
-Si requiere ayuda con su proyecto, o le interesa colaborar, póngamse en contacto: santiago.pesantez@integra-ec.com
+Si requiere ayuda con su proyecto, o le interesa colaborar, póngase en contacto: santiago.pesantez@integra-ec.com
