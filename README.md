@@ -6,9 +6,9 @@ El CAT-PD por sus siglas en inglés (Comprehensive Assessment of Traits relevant
 El modelo incluye 33 facetas de personalidad patológica, los que se agrupan en una estructura más amplia de 5 rasgos y que es consistente con el Modelo Alternativo de Desórdenes de la personalidad del DSM-V. Una de las ventajas más importantes es que el modelo basado en rasgos de personalidad patológica puede conducir a tratamientos que abordan rasgos específicos o perfiles específicos en lugar de desórdenes como es el caso del DSM-V. 
 
 Para más información en inglés ver:
-http://3plab.org/cat-pd/
-https://www.borderlinepersonalitydisorder.org/wp-content/uploads/2018/09/NEA-BPD_talk-Simms.pdf
-https://ipip.ori.org/newCAT-PD-SFv1.1ComparisonTable.htm
+- http://3plab.org/cat-pd/
+- https://www.borderlinepersonalitydisorder.org/wp-content/uploads/2018/09/NEA-BPD_talk-Simms.pdf
+- https://ipip.ori.org/newCAT-PD-SFv1.1ComparisonTable.htm
 
 
 ## La traducción
