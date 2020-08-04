@@ -1,6 +1,6 @@
 # CAT-PD en español
 ## ¿Qué es CAT-PD?
-### 1
+
 El CAT-PD por sus siglas en inglés (Comprehensive Assessment of Traits relevant to Personality Disorder) es un cuestionario desarrollado sobre un modelo comprehensivo de personalidad patológica que muestra ventajas claras sobre el sistema categórico utilizado por el DSM.
 
 El modelo incluye 33 facetas de personalidad patológica, los que se agrupan en una estructura más amplia de 5 rasgos y que es consistente con el Modelo Alternativo de Desórdenes de la personalidad del DSM-V. Una de las ventajas más importantes es que el modelo basado en rasgos de personalidad patológica puede conducir a tratamientos que abordan rasgos específicos o perfiles específicos en lugar de desórdenes como es el caso del DSM-V. 
